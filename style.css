@@ -113,12 +113,11 @@ body{
 @media (max-width: 768px){
 
     .state_name , .district_name{
-        width: 40vw;
-        padding: 2vw;
+        padding: 3.4vw;
     }
 
     .district_button{
-        padding: 2vw;
+        padding: 3vw;
         font-weight: bolder;
         font-size: medium;
     }
