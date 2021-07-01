@@ -109,3 +109,18 @@ body{
     width: 100vw;
     background-color: #FCBCD7;
 }
+
+@media (max-width: 768px){
+
+    .state_name , .district_name{
+        width: 40vw;
+        padding: 2vw;
+    }
+
+    .district_button{
+        padding: 2vw;
+        font-weight: bolder;
+        font-size: medium;
+    }
+    
+}
